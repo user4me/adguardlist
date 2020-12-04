@@ -1,0 +1,4 @@
+!
+! Title: AdGuard DNS filter
+!
+||adclick.g.doubleclick.net^
